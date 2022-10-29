@@ -1,5 +1,5 @@
 # To-Do Project
-- This project is developed by python 3.8 using Django Rest Framework.
+- This project is developed by python 3.8 using Django Rest Framework(DRF).
 - You can find requirements of this project [here](https://github.com/mostafa-msn/todo/blob/main/requirements.txt)
 - You must run the below command to build and run the project.
 
